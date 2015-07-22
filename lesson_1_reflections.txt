@@ -1,0 +1,30 @@
+It is fun using command line in using diff for 2 files
+I am already using a third party code diff viewer
+It can do a lot of things
+It can actually do highlighting which is really great
+
+I can have a better confidence in coding with version control
+If I have done some mistake that I cannot trace,
+I can just revert back my codes to the working copy
+Vesion control is amazing
+
+The pros of having manual commit
+You know the scope of the changes included per commit
+You will have the specific changes to the specific problem
+
+The cons of having manual commit
+Large chink of code might be included in the commit
+This will cause a difficulty in reading the code
+
+Git is a useful command line feature that I want to learn
+I have tried multiple GUI diff applications
+I want to know more about command line interfaces
+
+I am now confident with git as version control
+You still havent teached me how to return properly to head
+this is delicate matter
+
+
+I want to try bash commands
+I want to know more about bash scipts
+I want to be proficient in this
