@@ -1,0 +1,7 @@
+You need to initialize a repository to make a repository
+Repositories dont pop out on its own
+You need to initialize it so that we can record its history
+
+The staging area is an initial place where you put your changes
+This is where you decide if the changes will be included
+This is a good area where you can filter changes needed
