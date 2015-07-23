@@ -10,3 +10,10 @@ The staging area gives you the option to see your differences
 This place can diff on to your working working directory
 This place can diff on to your repository
 This ensures the right changes will be committed
+
+Branches are good when there are new experimental changes
+This will ensure the main repository will not be damaged
+This will save a lot of time in managing files
+
+Diagrams really help by visualizing where you are on the code
+This branch structure will help people to make sure their code is safe
