@@ -5,3 +5,8 @@ You need to initialize it so that we can record its history
 The staging area is an initial place where you put your changes
 This is where you decide if the changes will be included
 This is a good area where you can filter changes needed
+
+The staging area gives you the option to see your differences
+This place can diff on to your working working directory
+This place can diff on to your repository
+This ensures the right changes will be committed
