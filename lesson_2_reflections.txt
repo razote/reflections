@@ -20,3 +20,7 @@ This branch structure will help people to make sure their code is safe
 
 Merging 2 branches together combines the 2 branch
 You can now delete the other branch that was merged.
+
+It is difficult to merge manually
+There might be wrong merging to happen
+Hopefully there will only be automatic merging
