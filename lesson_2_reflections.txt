@@ -17,3 +17,6 @@ This will save a lot of time in managing files
 
 Diagrams really help by visualizing where you are on the code
 This branch structure will help people to make sure their code is safe
+
+Merging 2 branches together combines the 2 branch
+You can now delete the other branch that was merged.
